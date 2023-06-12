@@ -16,3 +16,12 @@ These are some pretty cool sides with some information I used to determine the l
 [norvid but one of the dead links](https://blogs.sas.com/content/iml/files/2014/09/bigrams.txt)
 
 [probability calculations](https://www.exploredatabase.com/2020/04/bigram-probability-estimation-of-word-sequence-example.html)
+
+# How to
+Compile with `javac *.java`
+
+Run with `java GUI`
+
+Input guess on left, colored responses on right
+
+Info button for more help, solve for answer, and reset for clear. If nothing happens close it and restart, there's probably something wrong with your inputs or some weird edge case I didn't think of.
